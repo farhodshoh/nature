@@ -20,7 +20,7 @@
 .navbar div ul li a {
   text-decoration: none;
   color: white;
- font-size: x-small;
+ font-size:smaller;
   margin-left: 0px;
   padding: 15px;
 }
