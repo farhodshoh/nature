@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  /* code of navbar */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    background-color:black;
+   margin-left: px;
+   padding-bottom: 4px;
+  }
+  .navbar div ul {
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: start;
+    align-items: start;
+  }
+.navbar div ul li a {
+  text-decoration: none;
+  color: white;
+ font-size: x-small;
+  margin-left: 0px;
+  padding: 15px;
+}
+.navbar div ul {
+  list-style-type: none;
+}
+.navbar ul li a:hover{
+background-color: white;
+color: black;
+}
+.navbar .Logo{
+ background-color: #009688 ;
+ 
+}
+.fa-solid{
+  color: white;
+  width: 5px;
+  height: 5px;
+}
+.navbar .fa-solid a:hover{
+  background-color: #009688;
+}
+#surat1{
+  width: 100%;
+  height: 300px;
+}
+#sailboat p{
+  font-size: 20px;
+  padding-left: 20px;
+  margin-top: -50px;
+  margin-left: 30px;
+  color: white;
+  background-color: black;
+}
+#sailboat p a:hover{
+  background-color: #009688;
+}
+.team{
+text-align: center;
+font-size: small;
+}
+.meet{
+  text-align: center;
+  font-size: xx-small;
+}
+#avatar1 img{
+  border: 5px none black;
+  padding-right: 10px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.full{
+  border: 5px none black;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  width: 100%;
+  height: 50vh;
+}
+.full{
+  display: flex;
+
+}
+#yakum{
+  border: 5px none black;
+  border-radius: 50%;
+}
